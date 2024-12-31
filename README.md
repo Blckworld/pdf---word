@@ -8,5 +8,7 @@ This project provides a simple tool to convert PDF files into Word documents (.d
 ## Technologies Used:
 •	pdf2docx for converting PDF to Word.
 •	Google Colab for file uploads and downloads.
+## install
+pip install pdf2docx
 
 This tool is designed to be simple and easy to use, making it ideal for anyone who needs to quickly convert PDFs into Word documents for further use or editing.
